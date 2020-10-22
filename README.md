@@ -2,8 +2,8 @@
 Small games implemented with TCL/TK GUI.
 
 ### Games 
-* Solitaire
-* Tchuka Ruma
+* [Solitaire](https://en.wikipedia.org/wiki/Solitaire)
+* [Tchuka Ruma](https://en.wikipedia.org/wiki/Surakarta_(game))
 
 ### Development Environment
 * Komodo Edit
